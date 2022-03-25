@@ -1,1 +1,1 @@
-http-server index.html
+http-server --cors

@@ -18,5 +18,5 @@ News website
 
 Portfolio website
 
-![GIF](Preview/portfolio1.gif "Portfolio1")
+![GIF](Preview/portfolio.gif "Portfolio1")
 ![GIF](Preview/portfolio2.gif "Portfolio2")
